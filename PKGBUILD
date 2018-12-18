@@ -10,7 +10,7 @@ license=('GPL')
 depends=('libusb')
 makedepends=('git')
 source=($pkgname::git+http://gitlab.com/DavidGriffith/minipro#commit=57b293d6)
-conflicts=('minipro', 'minipro-git')
+conflicts=('minipro' 'minipro-git')
 provides=('minipro')
 md5sums=('SKIP')
 
