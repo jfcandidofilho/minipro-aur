@@ -1,6 +1,10 @@
-**LAST UPDATED:** 	2018/12/18
+**PKGBUILD LAST UPDATE:** 	2018/12/27
 
 ---
+
+# IMPORTANT
+
+@[uffe](https://aur.archlinux.org/account/uffe) took the honorous job of maintaining the package in AUR (minipro-git). This means there is no need to use this anymore - although I will continue to update this just in case.
 
 # Information:
 
